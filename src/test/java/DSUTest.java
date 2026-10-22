@@ -35,7 +35,6 @@ public class DSUTest {
 
             assertEquals(expectedUnion, dsu.union(a, b));
 
-            // Простое эталонное объединение.
             for (int i = 0; i < n; i++) {
                 if (group[i] == oldGroup) {
                     group[i] = newGroup;
