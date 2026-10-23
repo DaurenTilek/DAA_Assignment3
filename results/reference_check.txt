@@ -1,0 +1,11 @@
+1000/4000: MST=147970 (expected 147970), SCC=27 (expected 27), DAG=396274 (expected 396274)
+1000/20000: MST=30363 (expected 30363), SCC=1 (expected 1), DAG=252411 (expected 252411)
+3162/12648: MST=468911 (expected 468911), SCC=137 (expected 137), DAG=1271911 (expected 1271911)
+3162/63240: MST=97589 (expected 97589), SCC=1 (expected 1), DAG=723157 (expected 723157)
+10000/40000: MST=1486139 (expected 1486139), SCC=373 (expected 373), DAG=3941828 (expected 3941828)
+10000/200000: MST=309550 (expected 309550), SCC=1 (expected 1), DAG=2381342 (expected 2381342)
+31623/126492: MST=4715515 (expected 4715515), SCC=1188 (expected 1188), DAG=12551891 (expected 12551891)
+31623/632460: MST=968517 (expected 968517), SCC=1 (expected 1), DAG=7376612 (expected 7376612)
+100000/400000: MST=15012094 (expected 15012094), SCC=3923 (expected 3923), DAG=40096539 (expected 40096539)
+100000/2000000: MST=3056681 (expected 3056681), SCC=1 (expected 1), DAG=23512087 (expected 23512087)
+Reference mismatches: 0
